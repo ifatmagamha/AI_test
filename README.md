@@ -20,7 +20,7 @@ Before implementing most of the tasks, I reflected on:
 - **How to evaluate effectiveness**.
 - **Design trade-offs**.
 
-- This reasoning is documented throughout the notebook, as small "discussions" before/after code.
+  This reasoning is documented throughout the notebook, as small "discussions" before/after code.
 ---
 
 ##  Structure
