@@ -68,8 +68,7 @@ Choose the metric that aligns best with your use case (e.g., RMSE for penalizing
 
 ## Caveats and Recommendations
 
-- This model does not infer causality — it captures correlations in the training data.
-- Extrapolation beyond the training data’s range is not guaranteed to be reliable.
+- The bias-variance tradoff
 - Performance may degrade on unseen or out-of-distribution data.
 - Retraining is recommended when significant changes occur in input feature distributions or regulatory standards.
 
